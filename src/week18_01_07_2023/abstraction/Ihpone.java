@@ -1,4 +1,4 @@
-package week_18_01_07_2023.abstraction;
+package week18_01_07_2023.abstraction;
 
 public class Ihpone extends Phone implements HasIOS,HasSiri,HasFaceTime{
     @Override
