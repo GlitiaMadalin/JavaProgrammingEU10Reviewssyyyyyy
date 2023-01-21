@@ -9,6 +9,8 @@ public class Task4 {
             Brackets are balanced if the closing bracket matches the opening one.
 
             Ex: {([])} -> balanced
+                {([])()} -> balanced
+                {[]([])()} -> balanced
                 {[(])} -> not balanced
 
  */
