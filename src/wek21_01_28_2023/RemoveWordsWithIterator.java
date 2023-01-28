@@ -25,5 +25,7 @@ public class RemoveWordsWithIterator {
         System.out.println(words);
 
 
+        //remove the word which has more than 5 letters
+
     }
 }
